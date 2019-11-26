@@ -3,3 +3,6 @@ model/*
 script/__pycache__/*
 script/helper/__pycache__/*
 temp/*
+input/.DS_Store
+
+.DS_Store
